@@ -3,7 +3,7 @@ Predicting AirBnb Review Scores
 
 In this project we will be analyzing the customer experience from a subset of the AirBnb Seattle dataset and attempting to understand what AirBnb hosts can do to improve the customer experience.
 
-Please see the Jupyter notebook for this project in Seattle Data.ipynb. 
+Please see the Jupyter notebook for this project in Understanding Customer Experience.ipynb. 
 
 A compiled version of this notebook is also available on Kaggle at https://www.kaggle.com/commit/understanding-customer-experience
 
