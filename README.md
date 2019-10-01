@@ -7,7 +7,7 @@ Please see the Jupyter notebook for this project in Seattle Data.ipynb.
 
 A compiled version of this notebook is also available on Kaggle at https://www.kaggle.com/commit/understanding-customer-experience
 
-A Medium post containing summarised analysis from this Notebook is available here: https://medium.com/@ndesmo/predicting-airbnb-review-scores-d39df5de0c1
+A Medium post containing summarised analysis from this Notebook is available here: https://medium.com/@ndesmo/understanding-customer-experience-a30d9c3605e9?sk=e4592f1d055490fc39d70559ca1a19fd
 
 ## Libraries required
 
